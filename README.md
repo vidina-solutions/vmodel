@@ -1,2 +1,2 @@
 # vmodel
-VModel avatar model library
+VModel avatar model platform
